@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+.env
+.venv
+pipenv.lock
+Pipfile.lock
+Pipfile
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Data files (optional: keep large/raw data out of git)
+data/*
+!data/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# notes
+notes**
