@@ -21,7 +21,7 @@ venv/
 # VS Code
 .vscode/
 
-# Data files (optional: keep large/raw data out of git)
+# Data files (keep large/raw data out of git)
 data/*
 !data/.gitkeep
 
