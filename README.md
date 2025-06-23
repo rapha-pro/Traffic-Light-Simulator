@@ -188,7 +188,7 @@ prediction = model.predict({
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📜 License
+### License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
